@@ -1,11 +1,3 @@
-/*
-
-TemplateMo 568 DigiMedia
-
-https://templatemo.com/tm-568-digimedia
-
-*/
-
 /* ---------------------------------------------
 Table of contents
 ------------------------------------------------
@@ -339,13 +331,15 @@ header
 */
 
 .pre-header {
-  background-color: #efefef;
-  height: 60px;
-  padding: 15px 0px;
+  background-color: #d6d3ff;
+  height: 50px;
+  padding: 12.5px 0px;
+  align-items: center;
 }
 
 .pre-header ul li {
   display: inline-block;
+  align-items: center;
 }
 
 .pre-header ul.info li {
@@ -353,7 +347,7 @@ header
 }
 
 .pre-header ul.info li a {
-  color: #afafaf;
+  color: #3c3c3c;
   font-size: 14px;
   transition: all .3s;
 }
@@ -369,6 +363,7 @@ header
 
 .pre-header ul.social-media {
   text-align: right;
+  
 }
 
 .pre-header ul.social-media li {
@@ -386,6 +381,7 @@ header
   border-radius: 50%;
   font-size: 14px;
   transition: all .3s;
+
 }
 
 .pre-header ul.social-media li a:hover {
