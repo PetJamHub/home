@@ -1689,14 +1689,14 @@ Portfolio
   text-align: center;
   line-height: 46px;
   font-size: 30px;
-  background-color: #eee;
+  background-color: #ffd4ea;
   border-radius: 50%;
-  color: #fff;
+  color: #ffffff;
   transition: all 0.5s;
 }
 
 .our-portfolio .owl-nav span:hover {
-  color: #fff;
+  color: #ffffff;
   background-color: #fa65b1;
 }
 
@@ -2224,7 +2224,7 @@ responsive
 /* ---- sale banner ---- */
 
 .banner {
-  background: linear-gradient(to right, #43d9ff 0%, #3d7eaa 100%);
+  background: linear-gradient(45deg, #ca61ff, #33d0ff);
   color: white;
   text-align: center;
   font-size: 26px;
