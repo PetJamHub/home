@@ -328,8 +328,8 @@ header
 
 .pre-header {
   background: linear-gradient(135deg, #f2caff, #e3b8ff, #b8c6ff);;
-  height: 60px;
-  padding: 15px 0px;
+  height: 50px;
+  padding: 13px 0px;
 }
 
 .pre-header ul li {
@@ -367,12 +367,12 @@ header
   background-color: #252525;
   color: #fff;
   display: inline-block;
-  width: 30px;
-  height: 30px;
-  line-height: 30px;
+  width: 25px;
+  height: 25px;
+  line-height: 25px;
   text-align: center;
   border-radius: 50%;
-  font-size: 14px;
+  font-size: 12px;
   transition: all .3s;
 }
 
