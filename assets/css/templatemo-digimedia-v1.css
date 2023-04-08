@@ -327,15 +327,13 @@ header
 */
 
 .pre-header {
-  background-color: #d6d3ff;
-  height: 50px;
-  padding: 12.5px 0px;
-  align-items: center;
+  background: linear-gradient(135deg, #f2caff, #e3b8ff, #b8c6ff);;
+  height: 60px;
+  padding: 15px 0px;
 }
 
 .pre-header ul li {
   display: inline-block;
-  align-items: center;
 }
 
 .pre-header ul.info li {
@@ -343,7 +341,7 @@ header
 }
 
 .pre-header ul.info li a {
-  color: #3c3c3c;
+  color: #252525;
   font-size: 14px;
   transition: all .3s;
 }
@@ -359,7 +357,6 @@ header
 
 .pre-header ul.social-media {
   text-align: right;
-  
 }
 
 .pre-header ul.social-media li {
@@ -367,7 +364,7 @@ header
 }
 
 .pre-header ul.social-media li a {
-  background-color: #afafaf;
+  background-color: #252525;
   color: #fff;
   display: inline-block;
   width: 30px;
@@ -377,12 +374,12 @@ header
   border-radius: 50%;
   font-size: 14px;
   transition: all .3s;
-
 }
 
 .pre-header ul.social-media li a:hover {
   background-color: #fa65b1;
 }
+
 
 .background-header {
   background-color: #fff!important;
