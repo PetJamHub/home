@@ -354,7 +354,7 @@ header
 }
 
 .pre-header ul.info li {
-  margin-right: 5px;
+  margin-right: 25px;
 }
 
 .pre-header ul.info li a {
@@ -1048,7 +1048,7 @@ Banner Style
 
 .main-banner .left-content p {
   margin-bottom: 30px;
-  margin-right: 5px;
+  margin-right: 0px;
 }
 
 .main-banner .right-image {
@@ -1482,7 +1482,7 @@ Services Style
 .services .left-text h4 {
   font-size: 20px;
   font-weight: 700;
-  color: #fa65b1 !important;
+  color: #191a20 !important;
 }
 
 .services .left-text p {
