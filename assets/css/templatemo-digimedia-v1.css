@@ -1005,7 +1005,7 @@ Banner Style
   position: absolute;
   right: 0;
   
-  width: 1159px;
+  width: 1400px;
   height: 1000px;
   z-index: -1;
 }
@@ -2206,7 +2206,9 @@ responsive
 }
 
 .banner {
-  background: linear-gradient(to right, #00AEEF, #00843D);
+  background: linear-gradient(to right, #43d9ff 0%, #3d7eaa 100%);
+);
+);
   color: white;
   text-align: center;
   font-size: 36px;
