@@ -2225,3 +2225,10 @@ responsive
     transform: translateX(0%);
   }
 }
+
+
+.gradient-text {
+  background: linear-gradient(45deg, #9e61ff, #33d0ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
