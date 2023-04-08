@@ -1721,7 +1721,7 @@ Blog
 
 .show-up {
   position: relative;
-  z-index: 200;
+  z-index: 1;
 }
 
 .blog-post {
@@ -1732,6 +1732,7 @@ Blog
 .blog-post .thumb img {
   border-top-right-radius: 23px;
   border-top-left-radius: 23px;
+  
 }
 
 .blog-post .down-content {
@@ -1839,6 +1840,7 @@ Blog
   margin-bottom: 20px;
   line-height: 30px;
 }
+
 
 
 /* 
