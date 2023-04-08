@@ -2205,13 +2205,13 @@ responsive
   }
 }
 
+/* ---- sale banner ---- */
+
 .banner {
   background: linear-gradient(to right, #43d9ff 0%, #3d7eaa 100%);
-);
-);
   color: white;
   text-align: center;
-  font-size: 36px;
+  font-size: 26px;
   animation-name: move;
   animation-duration: 0s;
   animation-timing-function: ease-in-out;
