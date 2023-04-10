@@ -145,7 +145,7 @@ body {
 }
 
 ::-moz-selection {
-  background: #fa65b1;
+  background: hsl(329, 94%, 69%);
   color: #fff !important;
 }
 
@@ -2228,7 +2228,7 @@ responsive
   background: linear-gradient(45deg, #ca61ff, #33d0ff);
   color: white;
   text-align: center;
-  font-size: 26px;
+  font-size: 24px;
   animation-name: move;
   animation-duration: 0s;
   animation-timing-function: ease-in-out;
